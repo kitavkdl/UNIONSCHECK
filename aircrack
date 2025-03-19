@@ -1,0 +1,3 @@
+Aireshark-ng is a tool used for network analysis and penetration testing, specifically focusing on wireless networks. It is a fork of the original Aircrack-ng suite but is designed to provide additional functionalities or improvements.
+
+Aircrack-ng is a popular suite of tools for assessing WiFi network security, and it includes features for capturing packets, cracking WEP and WPA/WPA2 keys, and performing various attacks on wireless networks. Aireshark-ng builds on this by potentially offering enhanced or additional capabilities.
